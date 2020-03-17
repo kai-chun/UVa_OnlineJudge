@@ -1,5 +1,3 @@
 {
-    "git.ignoreLimitWarning": true,
-    "editor.fontSize": 14,
-    "code-runner.runInTerminal": true
+    "git.ignoreLimitWarning": true
 }

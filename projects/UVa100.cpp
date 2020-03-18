@@ -36,5 +36,5 @@ int main(void){
         }
         cout << i << " " << j << " " << max << "\n";
     }
-
+    return 0;
 }

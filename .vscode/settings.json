@@ -1,9 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "code-runner.runInTerminal": true,
-    "files.associations": {
-        "iosfwd": "cpp",
-        "iostream": "cpp",
-        "algorithm": "cpp"
-    }
-}
